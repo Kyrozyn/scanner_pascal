@@ -1,0 +1,8 @@
+program menghitung;
+
+var a:INTEGER;
+begin
+     a:=5+5;
+	 a:='aku kamu'
+end.
+
